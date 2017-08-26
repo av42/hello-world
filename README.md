@@ -1,5 +1,4 @@
 # hello-world
-GitHub Example
 
 Change1
 Change2
